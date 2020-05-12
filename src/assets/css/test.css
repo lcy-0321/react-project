@@ -1,0 +1,73 @@
+#components-layout-demo-basic .ant-layout-header,
+#components-layout-demo-basic .ant-layout-footer {
+    background: #7dbcea;
+    color: #fff;
+    text-align: center;
+}
+
+#components-layout-demo-basic .ant-layout-footer {
+    line-height: 1.5;
+}
+
+#components-layout-demo-basic .ant-layout-content {
+    background: rgba(16, 142, 233, 1);
+    color: #fff;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+}
+
+.mb60 {
+    margin-bottom: 60px;
+}
+
+#components-layout-demo-basic .ant-layout-sider {
+    background: #3ba0e9;
+    color: #fff;
+    line-height: 120px;
+    text-align: center;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.section ul {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: #efefef;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section ul li.option {
+    width: 90%;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 10px;
+    background-color: lightblue;
+    border-radius: 10px;
+    list-style: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.section ul li.correct {
+    background-color: rgb(74, 206, 96);
+}
+
+.section ul li.wrong {
+    background-color: rgb(230, 123, 91);
+}
+
+.btn-wrap {
+    text-align: center;
+}

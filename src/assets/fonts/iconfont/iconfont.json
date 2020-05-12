@@ -1,0 +1,93 @@
+{
+  "id": "1174288",
+  "name": "ec-pc端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1648773",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "2604472",
+      "name": "关闭",
+      "font_class": "guanbi1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "6844458",
+      "name": "关闭",
+      "font_class": "guanbi2",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "774416",
+      "name": "信息3",
+      "font_class": "xinxi3",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "2468154",
+      "name": "信息服务",
+      "font_class": "xinxifuwu",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "4275812",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "7017747",
+      "name": "信息",
+      "font_class": "xinxi1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "7048582",
+      "name": "信息",
+      "font_class": "xinxi2",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "6966925",
+      "name": "上箭头实心小",
+      "font_class": "shangjiantoushixinxiao",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "6966945",
+      "name": "下箭头实心小",
+      "font_class": "xiajiantoushixinxiao",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "6966953",
+      "name": "右箭头实心小",
+      "font_class": "youjiantoushixinxiao",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "6966962",
+      "name": "左箭头实心小",
+      "font_class": "zuojiantoushixinxiao",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    }
+  ]
+}
