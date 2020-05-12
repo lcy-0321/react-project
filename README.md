@@ -1,16 +1,16 @@
-# react引入百度地图（配置智能检索&&反向地址解析获取实际地标）
+## react引入百度地图（配置智能检索&&反向地址解析获取实际地标）
 
 这是一个用react封装的百度地图组件
 
-## Step 1
+### Step 1
 ```html
 $ yarn install 
 ```
-## Step 2
+### Step 2
 ```html
 $ yarn start
 ```
-## Step 3
+### Step 3
 智能检索功能LocalSearch()
 ```javascript
 setPlace = (value) => {
@@ -31,7 +31,7 @@ setPlace = (value) => {
         }
     };
 ```
-## Step 4
+### Step 4
 给搜索的点创建地标marker
 ```javascript
 	layPoint = (e) => {
@@ -53,7 +53,7 @@ setPlace = (value) => {
       map.enableScrollWheelZoom();//启用地图放大缩小
     };
 ```
-## Step 5
+### Step 5
 百度地图的反向地址解析功能
 
 ```javascript
